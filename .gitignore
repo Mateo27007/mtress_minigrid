@@ -1,0 +1,17 @@
+.idea
+*.egg-info
+__pycache__
+.coverage
+.tox
+doc/mtress.wmf
+dist/
+build/
+
+hp/input_data.csv
+hp/pv_generation.csv
+
+# added by Mateo
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
